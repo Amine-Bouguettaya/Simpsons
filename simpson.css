@@ -53,8 +53,7 @@ main {
 }
 
 .mattphoto{
-    width: 100%;
-    align-items: center;
+    width: 60%;
 }
 
 nav {
@@ -83,6 +82,7 @@ article {
 }
 
 figure {
+    text-align: center;
     width: 85%;
 }
 
